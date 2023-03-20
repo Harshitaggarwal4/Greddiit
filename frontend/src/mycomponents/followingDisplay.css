@@ -1,0 +1,10 @@
+#name{
+    float: left;
+    margin-top: 3vh;
+    margin-left: 3vh;
+}
+#button{
+    float: right;
+    margin-right: 3vh;
+    margin-top: 3vh;
+}
